@@ -32,6 +32,8 @@
 3. Проверьте, что все файлы загрузились успешно.
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
 
+[maven-metadata.xml](https://github.com/SeNike/09-ci-03-cicd/blob/main/maven-metadata.xml)
+
 ### Знакомство с Maven
 
 ### Подготовка к выполнению
